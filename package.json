@@ -44,7 +44,7 @@
     "octopus-modules": "~0.0.1",
     "depcheck": "0.6.7",
     "handlebars": "4.0.10",
-    "stringstream": "0.0.1"
+    "stringstream": "0.0.6"
   },
   "devDependencies": {
     "jasmine": "3.3.0"
